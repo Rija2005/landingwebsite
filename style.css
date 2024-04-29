@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+header {
+   
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/image1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.uppernav{
+    color: #ffff;
+    background-image: url(images/image1.jfif);
+}
+
+.nav-top {
+    margin-left: 80rem;
+ color: white;
+    font-size: 1rem;
+
+
+}
+
+#logo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+#nav-link:hover {
+    color: antiquewhite;
+    background-color: rgb(204, 165, 93);
+}
+
+.line{
+    background-color: #ffff;
+    width: 100%;
+    height: 0.25rem;
+}
+.heading {
+    letter-spacing: 2px;
+    color: white;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 49.22px;
+    text-align: center;
+
+}
+.head-para{
+    color: white;
+margin-left: 10rem;
+margin-top: 3rem;
+font-size: 1rem;
+font-weight: 300;
+line-height: 21.09px;
+text-align: center;
+
+}
+.button{
+    margin-top: 3rem;
+    margin-left: 60rem;
+}
+.but1{
+    padding: 0.5rem;
+    border-radius: 20px;
+    
+
+
+}
+.but2{
+    padding: 0.5rem;
+    border-radius: 20px;
+
+}
+.color:hover{
+    background-color:rgb(204, 165, 93) ;
+}
+@media screen (max-width=)  {
+
+    
+}
